@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+
+//tudo errado
 int main(){
   int ret;
   ret = soma(2, 3);
